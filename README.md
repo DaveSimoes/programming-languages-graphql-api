@@ -19,6 +19,17 @@ A public GraphQL API providing structured data on programming languages, their c
 - 📚 Easily extensible and ready for integration with modern projects
 
 ---
+## 🔎 Database
+This project uses MongoDB as a NoSQL database to store information about programming languages, their creators, related frameworks, and tools.
+The connection to MongoDB is established through the Node.js backend, ensuring structured data and efficient queries via GraphQL.
+
+- Connection setup:
+
+To run the project, you need to have MongoDB installed and running.
+Configure the following environment variable with the URI to your database:
+```
+MONGODB_URI=mongodb://localhost:27017/database-name
+```
 
 ## 🚀 Getting Started
 
