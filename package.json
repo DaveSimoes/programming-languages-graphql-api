@@ -1,15 +1,25 @@
 {
   "name": "programming-languages-graphql-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "A modern, full-featured GraphQL API for exploring programming languages, frameworks, and tools. Perfect for developers, educators, and anyone passionate about technology trends!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "node index.js"
+    "dev": "node index.js",
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "graphql",
+    "api",
+    "programming-languages",
+    "frameworks",
+    "nodejs",
+    "mongodb",
+    "apollo-server",
+    "express"
+  ],
+  "author": "David Simoes <davesimoes@example.com>",
+  "license": "MIT",
   "type": "commonjs",
   "dependencies": {
     "apollo-server-express": "^3.13.0",
