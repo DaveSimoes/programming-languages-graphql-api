@@ -4,6 +4,10 @@ A public GraphQL API providing structured data on programming languages, their c
 
 [![Stars](https://img.shields.io/github/stars/DaveSimoes/programming-languages-graphql-api?style=social)](https://github.com/DaveSimoes/programming-languages-graphql-api/stargazers)
 [![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<img width="1290" height="585" alt="apollo-playground-queryoriginal" src="https://github.com/user-attachments/assets/1f9daac3-9ae9-4253-a709-c8827a977941" />
+
+
+
 
 ---
 
@@ -74,6 +78,11 @@ mutation {
 ```
 
 ---
+## 🛠️Screenshot of Apollo GraphQL studio - Hands-on application of examples on the Apollo GraphQL server
+<img width="1309" height="429" alt="apollo-playground" src="https://github.com/user-attachments/assets/b3741b15-667a-413b-893d-e78736d04b02" />
+<img width="1290" height="439" alt="apollo-playground-framework" src="https://github.com/user-attachments/assets/c98dadd0-1d70-451d-a571-dd64c3cad7a5" />
+<img width="1290" height="585" alt="apollo-playground-queryoriginal" src="https://github.com/user-attachments/assets/673b0406-97fb-44d5-b818-e6226dcd5f1a" />
+
 
 ## 🌍 Deploy in One Click
 
